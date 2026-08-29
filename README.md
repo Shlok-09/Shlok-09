@@ -18,7 +18,7 @@
 ### 👋 Hey, I'm Shlok
 
 - 🎓 Working toward an **M.S. in CS (OMSCS)** at **Georgia Tech**
-- 🤖 PhD-curious: **agentic AI**, **autonomous agents**, **planning & reasoning**
+- 🤖 Curious: **agentic AI**, **autonomous agents**, **planning & reasoning**
 - 🛠️ I ship ML systems end to end: train → serve → iterate
 - 🧪 Currently running experiments nobody asked for, and loving it
 - 📬 Open to weird collaborative projects on agents & ML systems
