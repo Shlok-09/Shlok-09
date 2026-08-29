@@ -27,50 +27,42 @@
 
 ### 🔬 Research Rabbit Holes
 
-![Agentic ML](https://img.shields.io/badge/Agentic%20ML-00d9ff?style=flat-square&labelColor=0d1117)
-![Autonomous Agents](https://img.shields.io/badge/Autonomous%20Agents-00d9ff?style=flat-square&labelColor=0d1117)
-![Multi-Agent Systems](https://img.shields.io/badge/Multi-Agent%20Systems-00d9ff?style=flat-square&labelColor=0d1117)
-![Planning & Reasoning](https://img.shields.io/badge/Planning%20%26%20Reasoning-00d9ff?style=flat-square&labelColor=0d1117)
-![Tool-Using Agents](https://img.shields.io/badge/Tool-Using%20Agents-00d9ff?style=flat-square&labelColor=0d1117)
-![Reinforcement Learning](https://img.shields.io/badge/Reinforcement%20Learning-00d9ff?style=flat-square&labelColor=0d1117)
-![ML Systems](https://img.shields.io/badge/ML%20Systems-00d9ff?style=flat-square&labelColor=0d1117)
-![Agent Evaluation & Reliability](https://img.shields.io/badge/Agent%20Evaluation%20%26%20Reliability-00d9ff?style=flat-square&labelColor=0d1117)
+```bash
+$ ls ~/rabbit_holes
+agentic-ml/  autonomous-agents/  multi-agent-systems/  planning-and-reasoning/
+tool-using-agents/  reinforcement-learning/  ml-systems/  agent-evaluation-and-reliability/
+```
 
 ### 🔭 Currently Exploring
 
-![LLM-Based Agents](https://img.shields.io/badge/LLM-Based%20Agents-00d9ff?style=flat-square&labelColor=0d1117)
-![Memory & Planning](https://img.shields.io/badge/Memory%20%26%20Planning-00d9ff?style=flat-square&labelColor=0d1117)
-![Tool Use](https://img.shields.io/badge/Tool%20Use-00d9ff?style=flat-square&labelColor=0d1117)
-![Multi-Agent Architectures](https://img.shields.io/badge/Multi-Agent%20Architectures-00d9ff?style=flat-square&labelColor=0d1117)
-![Evaluation & Reliability](https://img.shields.io/badge/Evaluation%20%26%20Reliability-00d9ff?style=flat-square&labelColor=0d1117)
-![Long-Horizon Tasks](https://img.shields.io/badge/Long-Horizon%20Tasks-00d9ff?style=flat-square&labelColor=0d1117)
+```bash
+$ git status
+On branch curious
+You are currently exploring (untracked):
+  llm-based-agents/
+  memory-and-planning/
+  tool-use/
+  multi-agent-architectures/
+  evaluation-and-reliability/
+  long-horizon-tasks/
+```
 
 ---
 
 ### 🛠️ Toolbox
 
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-00d9ff?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117)
-![PyTorch](https://img.shields.io/badge/PyTorch-00d9ff?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=0d1117)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-00d9ff?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=0d1117)
-![JavaScript](https://img.shields.io/badge/JavaScript-00d9ff?style=for-the-badge&logo=javascript&logoColor=white&labelColor=0d1117)
-![Dart](https://img.shields.io/badge/Dart-00d9ff?style=for-the-badge&logo=dart&logoColor=white&labelColor=0d1117)
-
-![Flask](https://img.shields.io/badge/Flask-00d9ff?style=for-the-badge&logo=flask&logoColor=white&labelColor=0d1117)
-![Node.js](https://img.shields.io/badge/Node.js-00d9ff?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=0d1117)
-![Docker](https://img.shields.io/badge/Docker-00d9ff?style=for-the-badge&logo=docker&logoColor=white&labelColor=0d1117)
-![Flutter](https://img.shields.io/badge/Flutter-00d9ff?style=for-the-badge&logo=flutter&logoColor=white&labelColor=0d1117)
-
-![scikit-learn](https://img.shields.io/badge/scikit--learn-00d9ff?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=0d1117)
-![Pandas](https://img.shields.io/badge/Pandas-00d9ff?style=for-the-badge&logo=pandas&logoColor=white&labelColor=0d1117)
-![SQL](https://img.shields.io/badge/SQL-00d9ff?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0d1117)
-![Jupyter](https://img.shields.io/badge/Jupyter-00d9ff?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=0d1117)
-
-![Git](https://img.shields.io/badge/Git-00d9ff?style=for-the-badge&logo=git&logoColor=white&labelColor=0d1117)
-![Linux](https://img.shields.io/badge/Linux-00d9ff?style=for-the-badge&logo=linux&logoColor=white&labelColor=0d1117)
-
-</div>
+```bash
+$ which python pytorch tensorflow javascript dart
+python ✔  pytorch ✔  tensorflow ✔  javascript ✔  dart ✔
+$ which flask node.js docker flutter
+flask ✔  node.js ✔  docker ✔  flutter ✔
+$ which scikit-learn pandas sql jupyter
+scikit-learn ✔  pandas ✔  sql ✔  jupyter ✔
+$ which git linux
+git ✔  linux ✔
+$ which c++
+bash: c++: not found (yet)
+```
 
 ---
 
