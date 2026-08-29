@@ -27,42 +27,17 @@
 
 ### 🔬 Research Rabbit Holes
 
-```bash
-$ ls ~/rabbit_holes
-agentic-ml/  autonomous-agents/  multi-agent-systems/  planning-and-reasoning/
-tool-using-agents/  reinforcement-learning/  ml-systems/  agent-evaluation-and-reliability/
-```
+![research](https://raw.githubusercontent.com/Shlok-09/Shlok-09/main/assets/research.svg)
 
 ### 🔭 Currently Exploring
 
-```bash
-$ git status
-On branch curious
-You are currently exploring (untracked):
-  llm-based-agents/
-  memory-and-planning/
-  tool-use/
-  multi-agent-architectures/
-  evaluation-and-reliability/
-  long-horizon-tasks/
-```
+![exploring](https://raw.githubusercontent.com/Shlok-09/Shlok-09/main/assets/exploring.svg)
 
 ---
 
 ### 🛠️ Toolbox
 
-```bash
-$ which python pytorch tensorflow javascript dart
-python ✔  pytorch ✔  tensorflow ✔  javascript ✔  dart ✔
-$ which flask node.js docker flutter
-flask ✔  node.js ✔  docker ✔  flutter ✔
-$ which scikit-learn pandas sql jupyter
-scikit-learn ✔  pandas ✔  sql ✔  jupyter ✔
-$ which git linux
-git ✔  linux ✔
-$ which c++
-bash: c++: not found (yet)
-```
+![toolbox](https://raw.githubusercontent.com/Shlok-09/Shlok-09/main/assets/toolbox.svg)
 
 ---
 
