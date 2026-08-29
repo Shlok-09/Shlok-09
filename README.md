@@ -13,7 +13,7 @@
 
 <br/>
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=Shlok-09&icon=2&color=6)](https://github.com/Shlok-09)
+[![Profile Views](https://komarev.com/ghpvc/?username=Shlok-09&style=flat-square&color=00d9ff&label=Profile+Views)](https://github.com/Shlok-09)
 [![Followers](https://img.shields.io/github/followers/Shlok-09?style=flat-square&labelColor=0d1117&color=00d9ff&logo=github&logoColor=00d9ff&label=Followers)](https://github.com/Shlok-09?tab=followers)
 [![Hackathons](https://img.shields.io/badge/Hackathons-5+-00ff9f?style=flat-square&labelColor=0d1117&logo=trophy&logoColor=00ff9f)](https://github.com/Shlok-09)
 
@@ -77,9 +77,9 @@ I turn hackathon deadlines into shipped products. From training models and servi
 
 <div align="center">
 
-[![Shlok's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shlok-09&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/Shlok-09)
+[![Shlok's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shlok-09&theme=tokyonight)](https://github.com/Shlok-09)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shlok-09&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8)](https://github.com/Shlok-09)
+[![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shlok-09&theme=tokyonight)](https://github.com/Shlok-09)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Shlok-09&theme=tokyonight&hide_border=true&background=0d1117)](https://github.com/Shlok-09)
 
@@ -114,7 +114,7 @@ def shlok():
 
 **⭐ If you like what you see, star a repo or two — it feeds the streak.**
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=Shlok-09&icon=2&color=6)](https://github.com/Shlok-09)
+[![Profile Views](https://komarev.com/ghpvc/?username=Shlok-09&style=flat-square&color=00d9ff&label=Profile+Views)](https://github.com/Shlok-09)
 [![Made with Love](https://img.shields.io/badge/Made%20with-Coffee-00ff9f?style=flat-square&labelColor=0d1117&logo=coffeescript&logoColor=00ff9f)](https://github.com/Shlok-09)
 
 </div>
